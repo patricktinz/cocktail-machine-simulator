@@ -1,0 +1,5 @@
+Tequila Sunrise:Tequila;40;Orange juice;150;Grenadine;10;
+Screwdriver:Vodka;40;Orange juice;80;
+Swimming Pool:Vodka;20;White rum;40;Blue curacao;10;Pineapple juice;40;Cream of Coconut;20;
+Pina Colada:Cream of Coconut;40;White rum;40;Coconut milk;20;Pineapple juice;90;
+Orange juice:Orange juice;50;
